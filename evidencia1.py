@@ -15,7 +15,7 @@ while True:
         print("")
         id=max(libros,default=0)+1
         Titulo=input("Ingrese el nombre del titulo: ")
-        Autor=input("Ingrese el nombre del titulo: ")
+        Autor=input("Ingrese el nombre del autor: ")
         Genero=input("Ingrese el genero del libro: ")
         fecha_publicacion=input("Ingrese la fecha de publicacion: ")
         isbn=int(input("Ingrese el ISBN del libro: "))
